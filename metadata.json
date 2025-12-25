@@ -1,0 +1,7 @@
+{
+  "name": "CareConnect Voice Assistant",
+  "description": "AI-powered home healthcare assistant to qualify care needs and schedule assessments using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
